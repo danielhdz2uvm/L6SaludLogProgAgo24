@@ -1,4 +1,4 @@
-# Definir las bibliotecas a utilizar
+# Definir las bibliotecas a utilizar 
 import numpy as np
 
 #Definir parámetros iniciales
